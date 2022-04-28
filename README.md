@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Developer currently working as a Web Dev Teaching Assistant @ BrainStation London, United Kingdom
 
-- 🌱 Always curious and eager to learn. I’m currently learning about Start-ups, AI and Web3
+- 🌱 Always curious and eager to learn. I’m currently learning about: Redux, Passport.js and JWT.  
 - 👨🏾‍💻 I have working experience with: JavaScript, Python, React, Sass, Node.js, Express, MongoDB, Socket.io
 - 👀 I’m looking to potentially collaborate on a start-up idea 💡
 - 📫 How to reach me: tc.lusengo@gmail.com or https://www.linkedin.com/in/tanakalusengo/
