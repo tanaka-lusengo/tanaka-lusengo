@@ -1,6 +1,6 @@
 ### Hi, I'm Tanaka 👋🏾
 
-I'm a Full-Stack Software Developer! 
+I'm a Frontend Software Developer! 
 Visit my Portfolio site here: https://www.tanakalusengo.dev/. 🚀
 
 - 🌱 Always curious and eager to learn!
