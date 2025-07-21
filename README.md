@@ -1,6 +1,6 @@
 ### Hi, Tanaka here 👋🏾
 
-#### I'm a Frontend Software Engineer! / AI Enthusiast 🤖
+#### I'm a Frontend Software Engineer! / General Enthusiast 🤖
 
 - 🌱 Always curious and eager to learn!
 - 🏆 Notion Champion
