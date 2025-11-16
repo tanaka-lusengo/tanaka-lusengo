@@ -1,8 +1,10 @@
-### Hi, Tanaka here 👋🏾
+### Howsit 👋🏾
 
-#### I'm a Frontend Software Engineer! / General Tech Enthusiast 🤖
+#### Frontend Engineer building at scale & from scratch 🚀
 
+- 💼 Frontend Engineer II @ **Octopus Energy**
+- 🎯 Founding Frontend Engineer @ **Rhevia AI**
+- 🧠 Industry Mentor & Part-time Teaching Assistant @ **BrainStation**
 - 🌱 Always curious and eager to learn!
-- 🏆 Notion Champion
-- 🧠 Mentor & Part-time Teaching Assistant @ BrainStation
-- 📫 Reach me here: tc.lusengo@gmail.com or on [LinkedIn](https://www.linkedin.com/in/tanakalusengo/)
+- 🏆 Notion Enthusiast
+- 📫 Reach me here: tc.lusengo@gmail.com | [LinkedIn](https://www.linkedin.com/in/tanakalusengo/)
